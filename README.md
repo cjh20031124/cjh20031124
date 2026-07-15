@@ -18,6 +18,35 @@ A software developer currently specializing in ERP customization and system inte
 👯 &nbsp;I'm looking to collaborate on **creative web-based entertainment projects and bringing new ideas to life.**  
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **I like singing and I am actually a singer of a band!**
+<br/>
+
+### 🎬 Featured Project
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb03a&fontSize=34&height=64&width=570&text=FilmDrop%20%F0%9F%93%B8" alt="FilmDrop" />
+</p>
+
+<p align="center">
+  A shared disposable camera web app — everyone at an event shoots on one roll,<br/>
+  photos develop into vintage film stocks, and everything lands in one shared album.<br/>
+  Solo build: ASP.NET Core 8 backend, vanilla JS/Canvas frontend, Google Drive as the only storage.
+</p>
+
+<p align="center">
+  <a href="https://cjh20031124.github.io/filmdrop/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TRY%20THE%20LIVE%20DEMO-ffb03a?style=for-the-badge&logoColor=171412" alt="Try the Live Demo" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Google Drive" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+</p>
+<br/>
 
 ### 🛠️ Tech Stack
 
@@ -67,11 +96,6 @@ A software developer currently specializing in ERP customization and system inte
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cjh20031124&bg_color=00000000&color=3aaad9&line=3aaad9&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
+
 <p align="center"><i>⭐️ From <a href="https://github.com/cjh20031124">cjh20031124</a></i></p>
