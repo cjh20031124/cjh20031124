@@ -28,7 +28,7 @@ A software developer currently specializing in ERP customization and system inte
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=16&pause=1400&color=ffb03a&center=true&vCenter=true&width=560&height=60&lines=Everyone%20shoots%20one%20roll.%20Every%20photo%20lands%20in%20one%20shared%20album.;Vintage%20film%20stocks%2C%20baked%20in%20client-side%20before%20upload.;Solo%20build%3A%20ASP.NET%20Core%208%20%2B%20vanilla%20JS%20%2B%20Google%20Drive%20storage." alt="FilmDrop — a shared disposable camera web app. Everyone shoots one roll; photos develop into vintage film stocks; built solo with ASP.NET Core 8, vanilla JS, and Google Drive as the only storage." />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=14&pause=1400&color=ffb03a&center=true&vCenter=true&width=620&height=50&lines=Everyone%20shoots%20one%20roll.;Every%20shot%20lands%20in%20one%20shared%20album.;Developed%20in%20vintage%20film%20stocks%2C%20baked%20in%20client-side." alt="FilmDrop — a shared disposable camera web app. Everyone shoots one roll; photos develop into vintage film stocks; built solo with ASP.NET Core 8, vanilla JS, and Google Drive as the only storage." />
 </p>
 
 <p align="center">
