@@ -24,7 +24,7 @@ A software developer currently specializing in ERP customization and system inte
 ### 🎬 Featured Project
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb03a&fontColor=171412&fontSize=26&height=100&width=570&text=FilmDrop%20%F0%9F%93%B8" alt="FilmDrop" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb03a&fontSize=34&height=64&width=570&text=FilmDrop%20%F0%9F%93%B8" alt="FilmDrop" />
 </p>
 
 <p align="center">
