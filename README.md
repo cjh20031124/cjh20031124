@@ -46,6 +46,7 @@ A software developer currently specializing in ERP customization and system inte
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 <br/>
+
 ### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -71,6 +72,7 @@ A software developer currently specializing in ERP customization and system inte
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
+
 ### 🔗 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/chang-jia-hui/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -78,10 +80,12 @@ A software developer currently specializing in ERP customization and system inte
   <a href="https://jhchang.azurewebsites.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:changjh.job@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
 ### 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=cjh20031124&show_icons=true&theme=tokyonight&title_color=3aaad9&icon_color=3aaad9&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
 </p>
+
 ### 📈 Contribution Graph
 <p align="center">
   <picture>
