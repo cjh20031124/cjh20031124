@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/cjh20031124">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3aaad9&fontSize=54&height=90&width=570&text=Hi%2C%20I'm%20Jiahui!" alt="Hi, I&#39;m Jiahui!" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=3aaad9&fontColor=ffffff&fontSize=42&height=150&width=570&text=Hi%2C%20I'm%20Jiahui!" alt="Hi, I&#39;m Jiahui!" />
   </a>
 </p>
 
@@ -18,18 +18,17 @@ A software developer currently specializing in ERP customization and system inte
 👯 &nbsp;I'm looking to collaborate on **creative web-based entertainment projects and bringing new ideas to life.**  
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **I like singing and I am actually a singer of a band!**
+
 <br/>
 
 ### 🎬 Featured Project
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb03a&fontSize=34&height=64&width=570&text=FilmDrop%20%F0%9F%93%B8" alt="FilmDrop" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb03a&fontColor=171412&fontSize=26&height=100&width=570&text=FilmDrop%20%F0%9F%93%B8" alt="FilmDrop" />
 </p>
 
 <p align="center">
-  A shared disposable camera web app — everyone at an event shoots on one roll,<br/>
-  photos develop into vintage film stocks, and everything lands in one shared album.<br/>
-  Solo build: ASP.NET Core 8 backend, vanilla JS/Canvas frontend, Google Drive as the only storage.
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=16&pause=1400&color=ffb03a&center=true&vCenter=true&width=560&height=60&lines=Everyone%20shoots%20one%20roll.%20Every%20photo%20lands%20in%20one%20shared%20album.;Vintage%20film%20stocks%2C%20baked%20in%20client-side%20before%20upload.;Solo%20build%3A%20ASP.NET%20Core%208%20%2B%20vanilla%20JS%20%2B%20Google%20Drive%20storage." alt="FilmDrop — a shared disposable camera web app. Everyone shoots one roll; photos develop into vintage film stocks; built solo with ASP.NET Core 8, vanilla JS, and Google Drive as the only storage." />
 </p>
 
 <p align="center">
@@ -46,6 +45,7 @@ A software developer currently specializing in ERP customization and system inte
   <img src="https://img.shields.io/badge/Google_Drive-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="Google Drive" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
+
 <br/>
 
 ### 🛠️ Tech Stack
@@ -91,6 +91,14 @@ A software developer currently specializing in ERP customization and system inte
 </p>
 
 ### 📈 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cjh20031124/cjh20031124/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cjh20031124/cjh20031124/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake animation eating through my contribution graph" src="https://raw.githubusercontent.com/cjh20031124/cjh20031124/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cjh20031124&bg_color=00000000&color=3aaad9&line=3aaad9&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
