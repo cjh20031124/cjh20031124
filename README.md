@@ -18,10 +18,15 @@
 
 A software developer currently specializing in ERP customization and system integration - building the pipelines, monitors and interfaces that keep manufacturing data flowing.
 **What's next: exploring the path from enterprise integration toward SaaS product development.**
+
 🔭  I'm currently working on **enterprise integration toward SaaS product development.**
+
 🌱  I'm currently learning **AI, LLMs, and intelligent automation workflows with a focus on modernizing legacy systems.**
+
 👯  I'm looking to collaborate on **creative web-based entertainment projects and bringing new ideas to life.**
+
 😄  Pronouns: **she/her**
+
 ⚡  Fun fact: **I like singing and I am actually a singer of a band!**
 
 <br/>
