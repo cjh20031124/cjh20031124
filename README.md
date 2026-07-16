@@ -28,7 +28,9 @@ A software developer currently specializing in ERP customization and system inte
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=14&pause=1400&color=ffb03a&center=true&vCenter=true&width=620&height=50&lines=Everyone%20shoots%20one%20roll.;Every%20shot%20lands%20in%20one%20shared%20album.;Developed%20in%20vintage%20film%20stocks%2C%20baked%20in%20client-side." alt="FilmDrop — a shared disposable camera web app. Everyone shoots one roll; photos develop into vintage film stocks; built solo with ASP.NET Core 8, vanilla JS, and Google Drive as the only storage." />
+  Everyone shoots one roll.<br/>
+  Every shot lands in one shared album.<br/>
+  Developed in vintage film stocks, baked in client-side.
 </p>
 
 <p align="center">
