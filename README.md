@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.genzesko.my/ target="_blank" rel="noopener noreferrer">
+  <a href="https://www.genzesko.my/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-3aaad9?style=for-the-badge&logoColor=white" alt="Visit my portfolio" />
   </a>
 </p>
