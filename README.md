@@ -9,29 +9,31 @@
 </p>
 
 <p align="center">
-  <a href="https://www.genzesko.my/" target="_blank" rel="noopener noreferrer">
+  <a href="https://jhchang.azurewebsites.net/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/VISIT%20MY%20PORTFOLIO-3aaad9?style=for-the-badge&logoColor=white" alt="Visit my portfolio" />
   </a>
 </p>
 
+---
+
 ### 🚀 About Me
 
-A software developer currently specializing in ERP customization and system integration - building the pipelines, monitors and interfaces that keep manufacturing data flowing.
+A software developer currently specializing in ERP customization and system integration - building the pipelines, monitors and interfaces that keep manufacturing data flowing.   
 **What's next: exploring the path from enterprise integration toward SaaS product development.**
 
-🔭  I'm currently working on **enterprise integration toward SaaS product development.**
+🔭 &nbsp;I'm currently working on **enterprise integration toward SaaS product development.**  
+🌱 &nbsp;I'm currently learning **AI, LLMs, and intelligent automation workflows with a focus on modernizing legacy systems.**  
+👯 &nbsp;I'm looking to collaborate on **creative web-based entertainment projects and bringing new ideas to life.**  
+😄 &nbsp;Pronouns: **she/her**  
+⚡ &nbsp;Fun fact: **I like singing and I am actually a singer of a band!**
 
-🌱  I'm currently learning **AI, LLMs, and intelligent automation workflows with a focus on modernizing legacy systems.**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cjh20031124&color=3aaad9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-👯  I'm looking to collaborate on **creative web-based entertainment projects and bringing new ideas to life.**
+---
 
-😄  Pronouns: **she/her**
-
-⚡  Fun fact: **I like singing and I am actually a singer of a band!**
-
-<br/>
-
-### 🎬 Featured Projects
+### 🎬 Featured Project
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffb03a&fontSize=34&height=64&width=570&text=FilmDrop%20%F0%9F%93%B8" alt="FilmDrop" />
@@ -45,7 +47,7 @@ A software developer currently specializing in ERP customization and system inte
 
 <p align="center">
   <a href="https://cjh20031124.github.io/filmdrop/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/TRY%20THE%20LIVE%20DEMO-FFEB3B?style=for-the-badge" alt="Try the FilmDrop Live Demo" />
+    <img src="https://img.shields.io/badge/TRY%20THE%20LIVE%20DEMO-FFEB3B?style=for-the-badge" alt="Try the Live Demo" />
   </a>
 </p>
 
@@ -60,73 +62,30 @@ A software developer currently specializing in ERP customization and system inte
 
 <br/>
 
+
+
 ---
-
-<br/>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3aaad9&fontSize=34&height=64&width=570&text=GenZesk%20%F0%9F%8E%AB" alt="GenZesk" />
-</p>
-
-<p align="center">
-  A centralized event ticketing and check-in management dashboard.<br/>
-  Manage orders, attendees, inventory, fulfilment, refunds and support.<br/>
-  Built for efficient event operations and real-time administrative visibility.
-</p>
-
-<p align="center">
-  <a href="https://cjh20031124.github.io/ConcertCheckIn/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/TRY%20THE%20LIVE%20DEMO-3AAAD9?style=for-the-badge" alt="Try the GenZesk Live Demo" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-</p>
-
-<br/>
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,java,cpp,cs,php,mysql,html,react,vue,dotnet,vite,sqlite,azure,gcp,docker,githubactions,cloudflare,github,vscode,linux&theme=dark&perline=10" alt="Tech stack icons" />
+  </a>
 </p>
+
+---
 
 ### 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chang-jia-hui/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/jiahui_1124" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.genzesko.my/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://jhchang.azurewebsites.net/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:changjh.job@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+---
 
 ### 📊 GitHub Stats
 
