@@ -60,9 +60,35 @@ A software developer currently specializing in ERP customization and system inte
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3aaad9&fontSize=34&height=64&width=570&text=GenZesk%20%F0%9F%8E%AB" alt="GenZesk" />
+</p>
+
+<p align="center">
+  A centralized event ticketing and check-in management dashboard.<br/>
+  Manage orders, attendees, inventory, fulfilment, refunds and support.<br/>
+  Built for efficient event operations and real-time administrative visibility.
+</p>
+
+<p align="center">
+  <a href="https://cjh20031124.github.io/ConcertCheckIn/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TRY%20THE%20LIVE%20DEMO-3AAAD9?style=for-the-badge" alt="Try the GenZesk Live Demo" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+</p>
+
 <br/>
-
-
 
 ---
 
