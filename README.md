@@ -74,7 +74,10 @@ A software developer currently specializing in ERP customization and system inte
 
 <p align="center">
   <a href="https://cjh20031124.github.io/ConcertCheckIn/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/TRY%20THE%20LIVE%20DEMO-3AAAD9?style=for-the-badge" alt="Try the GenZesk Live Demo" />
+    <img src="https://img.shields.io/badge/GenZesk%20Live%20Demo%20V1-3AAAD9?style=for-the-badge" alt="GenZesk Live Demo V1" />
+  </a>
+  <a href="https://cjh20031124.github.io/GenZeskBusinessManagement-v2/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GenZesk%20Live%20Demo%20V2-2E88AE?style=for-the-badge" alt="GenZesk Live Demo V2" />
   </a>
 </p>
 
