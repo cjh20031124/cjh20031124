@@ -73,11 +73,8 @@ A software developer currently specializing in ERP customization and system inte
 </p>
 
 <p align="center">
-  <a href="https://cjh20031124.github.io/ConcertCheckIn/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GenZesk%20Live%20Demo%20V1-3AAAD9?style=for-the-badge" alt="GenZesk Live Demo V1" />
-  </a>
   <a href="https://cjh20031124.github.io/GenZeskBusinessManagement-v2/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GenZesk%20Live%20Demo%20V2-2E88AE?style=for-the-badge" alt="GenZesk Live Demo V2" />
+    <img src="https://img.shields.io/badge/GenZesk%20Live%20Demo%20V2-2E88AE?style=for-the-badge" alt="GenZesk Live Demo" />
   </a>
 </p>
 
@@ -88,6 +85,31 @@ A software developer currently specializing in ERP customization and system inte
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f778ba&fontSize=34&height=64&width=570&text=Genzesko%20Meta%20Generator%20%E2%9C%A8" alt="Genzesko Meta Generator" />
+</p>
+
+<p align="center">
+  A meta generator for creating polished, share-ready content.<br/>
+  Turn your ideas into a clear and compelling social presence.<br/>
+  Designed for the Genzesko creative ecosystem.
+</p>
+
+<p align="center">
+  <a href="https://cjh20031124.github.io/genzesko-meta-generator/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TRY%20THE%20LIVE%20DEMO-F778BA?style=for-the-badge" alt="Try the Genzesko Meta Generator" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
 </p>
 
